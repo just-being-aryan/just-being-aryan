@@ -23,10 +23,6 @@ Welcome to my GitHub profile! I'm a passionate web developer specializing in cre
 
 ---
 
-## 📈 GitHub Stats
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=just-being-aryan&show_icons=true&theme=radical)
-
----
 
 ## 🌱 About Me
 - 🎓 Computer Science undergrad at GGSIPU.
@@ -38,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate web developer specializing in cre
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn:** [Aryan Sachdeva](https://www.linkedin.com/in/aryan-sachdeva/)
+- **LinkedIn:** [Aryan Sachdeva](https://www.linkedin.com/in/aryan-sachdeva-70587b283/)
 - **GitHub:** [just-being-aryan](https://github.com/just-being-aryan)
 
 ---
@@ -50,4 +46,6 @@ Welcome to my GitHub profile! I'm a passionate web developer specializing in cre
 
 ---
 
-![Racing Car](https://your-racing-car-gif-url-here.com)
+![Racing Car](https://i.gifer.com/Nt6v.gif)
+
+
