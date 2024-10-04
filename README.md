@@ -23,13 +23,12 @@ Welcome to my GitHub profile! I'm a passionate web developer specializing in cre
 
 ---
 
-
 ## 🌱 About Me
 - 🎓 Computer Science undergrad at GGSIPU.
 - 💻 2.5 months experience as a MERN Stack Developer intern.
 - 🏆 Winner of Tech Inertia Hackathon.
 - 🔨 Creator of projects like a Haldiram Food Delivery App, a portfolio website, and more.
-- 🌍 Located in Gurugram, India.
+- 🌍 Located in Delhi, India.
 
 ---
 
@@ -46,6 +45,17 @@ Welcome to my GitHub profile! I'm a passionate web developer specializing in cre
 
 ---
 
-![Racing Car](https://i.gifer.com/Nt6v.gif)
+<div align="center">
+  <img src="https://i.gifer.com/Nt6v.gif" width="400" height="300" alt="Racing Car GIF"/>
+  
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <a href="https://www.youtube.com/watch?v=MetamorphosisSongLink" target="_blank">
+      <img src="https://img.shields.io/badge/Listen%20to%20Metamorphosis-%23ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Metamorphosis Song"/>
+    </a>
+  </div>
+</div>
 
+---
 
+## 💬 Motivation for the Day
+> _"High on caffeine ☕"_ - Unknown
