@@ -1,4 +1,4 @@
-![Hey there! I'm Aryan Sachdeva](https://your-banner-image-url-here.com)
+![Hey there! I'm Aryan Sachdeva](https://drive.google.com/file/d/1uN8ugmRGYCpoUWH-IDtAE4hRzcLBlUm0/view?usp=sharing)
 
 # Hi there! 👋 I'm Aryan Sachdeva
 ### Web Developer | MERN Stack Enthusiast
