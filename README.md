@@ -1,7 +1,7 @@
 ![Hey there! I'm Aryan Sachdeva](https://drive.google.com/file/d/1uN8ugmRGYCpoUWH-IDtAE4hRzcLBlUm0/view)
 
 # Hi there! 👋 I'm Aryan Sachdeva
-### Web Developer | MERN Stack Enthusiast
+### Full Stack Developer | MERN Stack Enthusiast
 
 Welcome to my GitHub profile! I'm a passionate web developer specializing in creating modern, responsive, and user-friendly web applications. With a solid foundation in front-end and back-end technologies, I aim to bring innovative solutions to life.
 
