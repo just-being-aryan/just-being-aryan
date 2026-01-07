@@ -23,15 +23,6 @@ Welcome to my GitHub profile! I'm a passionate web developer specializing in cre
 
 ---
 
-## 🌱 About Me
-- 🎓 Computer Science undergrad at GGSIPU.
-- 💻 2.5 months experience as a MERN Stack Developer intern.
-- 🏆 Winner of Tech Inertia Hackathon.
-- 🔨 Creator of projects like a Haldiram Food Delivery App, a portfolio website, and more.
-- 🌍 Located in Delhi, India.
-
----
-
 ## 📫 Let's Connect
 - **LinkedIn:** [Aryan Sachdeva](https://www.linkedin.com/in/aryan-sachdeva-70587b283/)
 - **GitHub:** [just-being-aryan](https://github.com/just-being-aryan)
